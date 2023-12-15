@@ -6,4 +6,6 @@ Repository for the Weathear Radar: Theory and Practice fall 2023 class.
 
 3 - notebook.py contains the python code for reading, processing, and visualizing the results.
 
-4
+4 - plotPRS.py has the python functions for reading the emoluator output
+
+5 - 
