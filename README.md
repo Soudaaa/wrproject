@@ -11,3 +11,5 @@ Repository for the Weathear Radar: Theory and Practice fall 2023 class.
 5 - template.py has functions used during ploting;
 
 6 - Tmatrix.py has the T-matrix code in python;
+
+7 - atennapatterns.zip contains the matlab code to generate the radiation patterns as well as their .files.
