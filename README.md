@@ -8,4 +8,6 @@ Repository for the Weathear Radar: Theory and Practice fall 2023 class.
 
 4 - plotPRS.py has the python functions for reading the emoluator output
 
-5 - 
+5 - Tmatrix.py has the T-matrix code in python
+
+6 - 
